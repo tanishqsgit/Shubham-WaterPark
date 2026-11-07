@@ -3,6 +3,15 @@
 A photo-led React and TypeScript website. The application source is in
 [`shubham-waterpark-3d/`](shubham-waterpark-3d/), despite the folder's historical 3D name.
 
+## Experience and implementation
+
+- Responsive photo storytelling, image galleries, and a keyboard-accessible viewer.
+- Scroll-linked transitions, photo parallax, and motion preference controls.
+- Local optimized WebP imagery with recorded source URLs.
+- A photo-led default experience; the earlier procedural 3D concept remains in source.
+
+**Stack:** React · TypeScript · Vite · GSAP · Tailwind CSS
+
 ## Run locally
 
 Requires Node.js 22.12 or later and npm.
